@@ -1,6 +1,6 @@
 Hi this is the overview of the clone (Remember to replace credentials and keys with your own)
 
-Discord Demo
+Discord Video Demo below
 
 [![Discord Clone Demo](https://img.youtube.com/vi/Ibzu24rdnes/0.jpg)](https://www.youtube.com/watch?v=Ibzu24rdnes)
 
