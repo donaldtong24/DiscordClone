@@ -1,6 +1,6 @@
 Hi this is the overview of the clone (Remember to replace credentials and keys with your own)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ibzu24rdnes?si=TiJoO5kjv0sQoSQC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=Ibzu24rdnes)
 
 <img width="519" height="923" alt="Screenshot 2025-07-25 224011" src="https://github.com/user-attachments/assets/b4daf653-e8d0-44f1-9b89-c9ade16ecc3a" />
 <img width="525" height="747" alt="Screenshot 2025-07-25 224019" src="https://github.com/user-attachments/assets/44f6926c-f97f-4f80-abcc-bd17fa969d83" />
