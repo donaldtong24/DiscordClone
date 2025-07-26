@@ -1,5 +1,7 @@
 Hi this is the overview of the clone (Remember to replace credentials and keys with your own)
+
 Discord Demo
+
 [![Discord Clone Demo](https://img.youtube.com/vi/Ibzu24rdnes/0.jpg)](https://www.youtube.com/watch?v=Ibzu24rdnes)
 
 <img width="519" height="923" alt="Screenshot 2025-07-25 224011" src="https://github.com/user-attachments/assets/b4daf653-e8d0-44f1-9b89-c9ade16ecc3a" />
